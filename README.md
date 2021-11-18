@@ -1,6 +1,6 @@
 # training resources
 
-<img src="/Users/bserna/sandbox/training-resources/hackerhrslogo.svg" style="zoom:40%;" />
+<img src="https://raw.githubusercontent.com/brandonserna/training-resources/main/hackerhrslogo.svg" style="zoom:40%;" />
 
 __11-18 Session__
 
