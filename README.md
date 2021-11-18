@@ -18,3 +18,10 @@ __Great resources__
 
 Data School: https://github.com/justmarkham/pandas-videos/blob/master/pandas.ipynb
 
+__12-2 Session__
+
+Agenda
+
+* Hot topics and pressing issues
+* Open discussion
+* (Tutorial) Setting Python up
