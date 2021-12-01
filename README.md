@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/brandonserna/training-resources/main/hackerhrslogo.svg" style="zoom:40%;" />
 
-__11-18 Session__
+## 11-18 Session
 
-Agenda
+__Agenda__
 
 * Hot topics and pressing issues
 * Open discussion
@@ -18,10 +18,11 @@ __Great resources__
 
 Data School: https://github.com/justmarkham/pandas-videos/blob/master/pandas.ipynb
 
-__12-2 Session__
+## 12-2 Session
 
-Agenda
+[notes](./cloud/RStudioConnect.md)
 
-* Hot topics and pressing issues
+__Agenda__
+
+* (Tutorial) Using RStudio Connect with Plotly Dash
 * Open discussion
-* (Tutorial) Setting Python up
