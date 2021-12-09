@@ -26,3 +26,22 @@ __Agenda__
 
 * (Tutorial) Using RStudio Connect with Plotly Dash
 * Open discussion
+
+## 12-9 Session
+
+[notes](./cloud/aws-lambda.md)
+
+__Agenda__
+
+* (Tutorial) How to work with aws lambda
+* Open discussion
+* Office hours
+
+## 1-6 Session
+
+[notes](./data/data-testing.md)
+
+__Agenda__
+
+* (Tutorial) Getting started with data testing
+* Open discussion
