@@ -37,9 +37,11 @@ __Agenda__
 * Open discussion
 * Office hours
 
-## 1-6 Session
+## 5-18 Session
 
 [notes](./data/data-testing.md)
+
+[tutorial](./data/data-testing/README.md)
 
 __Agenda__
 
